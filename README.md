@@ -3,3 +3,6 @@ Teste de alteração
 4 5 6
 
 Lembrei do comando: git commit 
+
+Lembrei do comando: git status
+
